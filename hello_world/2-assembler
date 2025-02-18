@@ -1,0 +1,3 @@
+#!/bin/bash
+ggc -S $CFILE
+
