@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * reset_to_98 - this program resets the value of 
+ * reset_to_98 - this program resets the value of
  * an int to 98
  *
  * @n: he value of a dereferencing pointer
