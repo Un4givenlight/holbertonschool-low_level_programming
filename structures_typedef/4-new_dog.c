@@ -40,7 +40,7 @@ dog_t *new_dog(char *name, float age, char *owner)
 		{
 			free(max_dog->name);
 			free(max_dog);
-			return(NULL);
+			return (NULL);
 		}
 
 		max_dog->name = _strcpy(max_dog->name, name);
